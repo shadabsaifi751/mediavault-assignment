@@ -4,7 +4,7 @@
 
 Paste your Loom (or equivalent) link here. 5–10 minutes.
 
-**Link:** `[Insert Loom / Screen Recording URL here]`
+**Link:** https://www.loom.com/share/6fb17471c995449783e7558bed2e06b6
 
 ---
 
